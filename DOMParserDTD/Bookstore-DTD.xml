@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookstore SYSTEM "Bookstore.dtd">
+<bookstore>
+  <book id="1">
+	 <title>Gone with the Wind</title>
+	 <author>Movie</author>
+	 <genre>Classic</genre>
+  </book>
+  <book id="2">
+	 <title>Star Trek</title>
+	 <author>TV Series</author>
+	 <genre>Science fiction</genre>
+  </book>
+</bookstore>
