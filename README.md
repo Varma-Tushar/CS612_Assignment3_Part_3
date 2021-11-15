@@ -9,8 +9,9 @@
 2. Hit the RUN button<br>
 3. You should be able to see the following message in console:<br>
 <pre>
--- Validator Class: com.sun.org.apache.xerces.internal.jaxp.validation.ValidatorImpl
--- Validation passed.
+XML Parsing Successful!
+Validator Class: com.sun.org.apache.xerces.internal.jaxp.validation.ValidatorImpl
+XML Validation Passed!
 </pre>
 
 <Strong>Steps to parse and validate XML document against the DTD:<br></Strong>
